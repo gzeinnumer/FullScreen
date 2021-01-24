@@ -1,7 +1,7 @@
 # FullScreen
 
 |![](https://github.com/gzeinnumer/FullScreen/blob/master/preview/preview1.jpg)|![](https://github.com/gzeinnumer/FullScreen/blob/master/preview/preview2.jpg)|![](https://github.com/gzeinnumer/FullScreen/blob/master/preview/preview3.jpg)|![](https://github.com/gzeinnumer/FullScreen/blob/master/preview/preview4.jpg)|
-|---|---|
+|---|---|---|---|
 |Samsung A51(Status Bar Hide)|Samsung A51(Status Bar Show)| Vivo 1719(Status Bar Show)| Vivo 1719(Status Bar Hide)|
 
 - `Manifest.xml`
